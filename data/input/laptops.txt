@@ -1,0 +1,21 @@
+Manufacturer,Model,Processor,RAM,GPU,Weight,Price
+Dell,Dell XPS 13,Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2.64,1399.99
+Apple,MacBook Air,Apple M1 Chip,8GB,Apple GPU,2.8,999.00
+HP,HP Spectre x360,Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2.87,1349.99
+Lenovo,Lenovo ThinkPad X1 Carbon,Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2.49,1649.00
+Asus,Asus ROG Zephyrus G14,AMD Ryzen 9 5900HS,16GB,NVIDIA GeForce RTX 3060,3.53,1499.99
+Acer,Acer Swift 3,AMD Ryzen 7 4700U,8GB,AMD Radeon Graphics,2.65,699.00
+Microsoft,Microsoft Surface Laptop 4,Intel Core i7-1185G7,16GB,Intel Iris Xe Graphics,2.79,1599.00
+MSI,MSI GS66 Stealth,Intel Core i9-11980HK,32GB,NVIDIA GeForce RTX 3080,4.63,2499.99
+Razer,Razer Blade 15,Intel Core i7-11800H,16GB,NVIDIA GeForce RTX 3060,4.63,1899.99
+LG,LG Gram 17,Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2.98,1499.00
+Acer,Acer Predator Helios 300,Intel Core i7-10750H,16GB,NVIDIA GeForce RTX 3060,5.07,1199.99
+Lenovo,Lenovo Yoga C940,Intel Core i7-1065G7,12GB,Intel Iris Plus Graphics,2.98,1299.00
+Dell,Dell Inspiron 15 5000,AMD Ryzen 7 4700U,8GB,AMD Radeon Graphics,3.78,799.00
+HP,HP Envy x360,AMD Ryzen 5 4500U,8GB,AMD Radeon Graphics,2.87,899.00
+Microsoft,Microsoft Surface Pro 7,Intel Core i5-1035G4,8GB,Intel Iris Plus Graphics,1.70,799.00
+Asus,Asus VivoBook S15,Intel Core i5-1035G1,8GB,Intel UHD Graphics,3.97,699.00
+Acer,Acer Chromebook Spin 13,Intel Core i5-10210U,8GB,Intel UHD Graphics,3.31,499.00
+Lenovo,Lenovo IdeaPad 3,AMD Ryzen 3 3250U,4GB,AMD Radeon Graphics,4.10,399.00
+HP,HP Chromebook 14,Intel Celeron N4000,4GB,Intel UHD Graphics,3.24,299.00
+Dell,Dell Inspiron 14 2-in-1,Intel Core i3-1115G4,4GB,Intel UHD Graphics,3.42,499.00

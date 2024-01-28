@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "category": "Home & Kitchen",
+        "price": 882
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "category": "Clothing",
+        "price": 868
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "category": "Clothing",
+        "price": 150
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "category": "Books",
+        "price": 950
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "category": "Clothing",
+        "price": 331
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "category": "Accessories",
+        "price": 608
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "category": "Accessories",
+        "price": 170
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "category": "Home & Kitchen",
+        "price": 911
+    },
+    {
+        "id": 9,
+        "name": "Product 9",
+        "category": "Accessories",
+        "price": 756
+    },
+    {
+        "id": 10,
+        "name": "Product 10",
+        "category": "Clothing",
+        "price": 997
+    },
+    {
+        "id": 11,
+        "name": "Product 11",
+        "category": "Accessories",
+        "price": 270
+    },
+    {
+        "id": 12,
+        "name": "Product 12",
+        "category": "Accessories",
+        "price": 627
+    },
+    {
+        "id": 13,
+        "name": "Product 13",
+        "category": "Accessories",
+        "price": 402
+    },
+    {
+        "id": 14,
+        "name": "Product 14",
+        "category": "Electronics",
+        "price": 145
+    },
+    {
+        "id": 15,
+        "name": "Product 15",
+        "category": "Books",
+        "price": 652
+    },
+    {
+        "id": 16,
+        "name": "Product 16",
+        "category": "Clothing",
+        "price": 553
+    },
+    {
+        "id": 17,
+        "name": "Product 17",
+        "category": "Accessories",
+        "price": 832
+    },
+    {
+        "id": 18,
+        "name": "Product 18",
+        "category": "Electronics",
+        "price": 146
+    },
+    {
+        "id": 19,
+        "name": "Product 19",
+        "category": "Home & Kitchen",
+        "price": 921
+    },
+    {
+        "id": 20,
+        "name": "Product 20",
+        "category": "Accessories",
+        "price": 230
+    }
+]

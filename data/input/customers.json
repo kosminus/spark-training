@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Richard Baker",
+        "email": "norrisheather@example.org",
+        "address": "037 Richard Divide Apt. 541\nEast Pamelachester, WI 63161"
+    },
+    {
+        "id": 2,
+        "name": "Ebony Hoffman",
+        "email": "saramartin@example.net",
+        "address": "207 Carter Junction\nNorth Joseph, MP 41868"
+    },
+    {
+        "id": 3,
+        "name": "Andrea Brown",
+        "email": "lespinoza@example.org",
+        "address": "6185 Alison Passage Apt. 248\nEast Crystal, MS 46710"
+    },
+    {
+        "id": 4,
+        "name": "Dale Bishop",
+        "email": "carternoah@example.net",
+        "address": "3699 Proctor Loop\nNorth Ronniemouth, MA 40158"
+    },
+    {
+        "id": 5,
+        "name": "Kyle Miller",
+        "email": "contrerasdarrell@example.com",
+        "address": "14030 Dixon Harbor Apt. 869\nPorterfort, FL 70611"
+    },
+    {
+        "id": 6,
+        "name": "Christine Williams DVM",
+        "email": "brownedward@example.org",
+        "address": "9764 Harris Mills Apt. 831\nMaldonadoside, DE 41732"
+    },
+    {
+        "id": 7,
+        "name": "Gary Ryan",
+        "email": "kelleycarl@example.org",
+        "address": "8215 Timothy Oval Apt. 027\nNorth Cory, PR 39415"
+    },
+    {
+        "id": 8,
+        "name": "Eric Bennett",
+        "email": "elliottsarah@example.com",
+        "address": "5653 Reynolds Brooks Apt. 936\nSantosside, VI 32148"
+    },
+    {
+        "id": 9,
+        "name": "John Bond",
+        "email": "christopher21@example.com",
+        "address": "95705 Danielle Camp Suite 961\nLeeshire, AZ 12259"
+    },
+    {
+        "id": 10,
+        "name": "Diamond Gutierrez",
+        "email": "michelleholder@example.net",
+        "address": "47207 Kristine Spur Apt. 914\nJasonview, SD 21300"
+    },
+    {
+        "id": null,
+        "name": "Diamond Gutierrez",
+        "email": "michelleholder@example.net",
+        "address": "47207 Kristine Spur Apt. 914\nJasonview, SD 21300"
+    }
+]
